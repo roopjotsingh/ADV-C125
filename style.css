@@ -1,0 +1,32 @@
+#diva
+{
+    background-color: gray;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: aliceblue;
+    line-height: 3;
+    text-align: center;
+}
+#spana
+{
+    font-size: 18px;
+    color: Black
+}
+#spanb
+{
+    font-size: 18px;
+    color: white;
+}
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px skyblue;
+}
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    padding: 10px;
+}
